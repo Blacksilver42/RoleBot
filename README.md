@@ -1,0 +1,2 @@
+# RoleBot
+KCP discord bot
